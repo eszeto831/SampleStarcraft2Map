@@ -5,6 +5,7 @@
         <Item Type="CustomScript" Id="E56DF66D"/>
     </Root>
     <Element Type="Trigger" Id="713E8577">
+        <Disabled/>
         <Event Type="FunctionCall" Id="FCD35AED"/>
         <Action Type="FunctionCall" Id="D6CF7EAD"/>
         <Action Type="FunctionCall" Id="C22902F1"/>

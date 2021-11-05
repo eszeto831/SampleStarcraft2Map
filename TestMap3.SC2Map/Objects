@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PlacedObjects Version="27">
-    <ObjectUnit Id="1444585464" Position="22.5,14.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="FleetBeacon" Player="1"/>
-    <ObjectUnit Id="29744020" Position="29.5,12.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="FleetBeacon" Player="1"/>
-    <ObjectUnit Id="1399301247" Position="24.5,22.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="FleetBeacon" Player="1"/>
-    <ObjectUnit Id="1776213629" Position="18,15,0" Scale="1,1,1" UnitType="DarkShrine" Player="1"/>
-    <ObjectUnit Id="567711774" Position="13.5,12.5,0" Rotation="5.4975" Scale="1,1,1" UnitType="FleetBeacon" Player="1"/>
+    <ObjectUnit Id="1171564130" Position="112.5,64.5,0" Rotation="5.5273" Scale="1,1,1" UnitType="Nexus" Player="12"/>
+    <ObjectUnit Id="1962392695" Position="19.5,64.5,0" Rotation="2.9777" Scale="1,1,1" UnitType="Nexus" Player="6"/>
+    <ObjectUnit Id="1740048799" Position="26.045,62.0476,0" Rotation="1.7998" Scale="1,1,1" UnitType="TestZeratul2" Player="1"/>
+    <ObjectUnit Id="1311019693" Position="27.5095,64.4355,0" Rotation="5.6472" Scale="1,1,1" UnitType="Stalker" Player="1"/>
 </PlacedObjects>
