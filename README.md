@@ -1,0 +1,1 @@
+# SampleStarcraft2Map
